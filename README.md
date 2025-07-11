@@ -1,4 +1,7 @@
-#InviteStudio
+# InviteStudio
+![Version](https://img.shields.io/github/v/tag/SimoneGabionetta/invite-studio?label=version)
+![License](https://img.shields.io/github/license/SimoneGabionetta/invite-studio)
+
 
 InviteStudio is a web application for customizing digital invitations.
 It allows users to create and edit customized invitations, previewing how they will look on different devices (desktop, tablet, and mobile).
@@ -9,10 +12,9 @@ It allows users to create and edit customized invitations, previewing how they w
 - Customize background photos, titles, messages, dates, locations, and RSVPs
 
 ## Technologies
-- Front-end: Next.js
-- Back-end: (TBD)
-- Database: (TBD)
-- Docker for environment orchestration
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Database](https://img.shields.io/badge/Database-TBD-lightgrey?style=for-the-badge)
 
 ## How to run the project (initial instructions)
 1. Clone the repository
@@ -44,3 +46,6 @@ git push origin issue-23-fix-form-bug
 ```
 4. Open a Pull Request (PR) in the repository on GitHub, linking to the corresponding issue.
 Wait for review and approval for the merge.
+
+This project was created with by [Simone Gabionetta
+](https://www.linkedin.com/in/smgabionetta/)
