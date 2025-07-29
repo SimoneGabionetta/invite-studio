@@ -3,7 +3,6 @@
 ![License](https://img.shields.io/github/license/SimoneGabionetta/invite-studio)
 
 
-This repository aims to test some functionalities of the health sector.
 
 
 ## Technologies
