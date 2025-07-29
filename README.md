@@ -3,18 +3,11 @@
 ![License](https://img.shields.io/github/license/SimoneGabionetta/invite-studio)
 
 
-InviteStudio is a web application for customizing digital invitations.
-It allows users to create and edit customized invitations, previewing how they will look on different devices (desktop, tablet, and mobile).
+This repository aims to test some functionalities of the health sector.
 
-## Main Features
-- Top menu with responsive view (desktop, tablet, mobile)
-- Edit invitations per session, with buttons to edit text, images, and links
-- Customize background photos, titles, messages, dates, locations, and RSVPs
 
 ## Technologies
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Database](https://img.shields.io/badge/Database-TBD-lightgrey?style=for-the-badge)
+
 
 ## How to run the project (initial instructions)
 1. Clone the repository
